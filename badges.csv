@@ -1,0 +1,102 @@
+tag,url,slotName
+team member,resdb:///da11582c477cfd9afd957268c72961cca4130f64bea8440e381840425c898078.png,Team
+moderator,resdb:///43b2368b3779c9413d24ba77ec9a9e00fce4d16e021e386941cde3247bdd1aa5.png,Moderator
+mentor,resdb:///b765be132f8ddce120665b531ce8874fd2034529103ca72b0de9dfa896dfc9fc.png,Mentor
+translator,resdb:///76152d6d2f7e125620ae7138c66a8d0408ebed45580bea727c6a673b325f2311.png,Translator
+htc vive,resdb:///f92c0a3e31882b8075081dfa2d0f4d3403b89422ccebf75acaf6cb8947f51175.png,Vive Ambassador
+durian tester,resdb:///1c62e8c224af005c9293bc636dd3e93e8f6d2aba202287cf40cbcfe1259129d4.png,Durian Tester
+orange,resdb:///41edf1b639bca50aac0e43e7d3cc2633e40db797138a72cc1544f353f11e0875.png,🍊 IS ALL
+blueberry,resdb:///db910f986cbcf1d8fa8f427b473aa1a7bf1714742337103097f4653132e27d2f.png,Is this really good use of your time?
+mango,resdb:///8af55726928b476ee12dbee7a9aea361d3c64487914c1298b5a47bad46461f29.png,<color=#f00>WARNING:</color> DO NOT MIX WITH SOAP
+hearing impaired,resdb:///b079a1bc258fd2bf2e56eefd88a0a1af04c47fe3dfed090fedfe04da523cab42.png,Hearing Impaired
+visually impaired,resdb:///b4e2da97dd3ccc2d49da3bb3adbb7f3fe575d133537dce5aea931e7a75c25926.png,Visually Impaired
+color blind,resdb:///1498ea5e6302e86ad4cf2d6f1626a9e8469d5a57410a42837da1f88a8aa80c40.png,Color Blind
+mute,resdb:///89dcd8ab20fe52f799309e01b4a64a4f055bb864dd68ae52bce4382c0d1ea3b7.png,Speech Impaired
+potato,resdb:///9e2df387f7ab288486d5abd8ebb760d87872227a47779c897593c263f27b1f8e.png,Potato
+mmc participant,resdb:///a92e7d4fe39d70c5b60c7aacdd7ebaae9708f9bff7f7b3580166594361d9987d.png,MMC Participation
+mmc cow,resdb:///e50f19c45f2f1721cf592df72ebb09f1e5edfa57774aa42a6e33caa22a3ce618.png,MMC Cow (source of THE CHEESE)
+mmc lips,resdb:///12654a508df6a7898667ccc2ca70f935c40008ff2eb81ab8185508cca538d436.png,MMC Translator
+mmc world 1st,resdb:///3a86cc9db93f2572000cdfa51854622f2174c02c098ab31ae4e735d6529c0688.png, 1st place
+mmc world 2nd,resdb:///10b17975a8907cab6cafa9a0e35ebf72e0a770ba55e2a66fca375ef19e03c13a.png, 2nd place
+mmc world 3rd,resdb:///841fa2b451b4e43fe247914e3ea9352989d96ccd4cc58f2e916308dd3e196160.png, 3rd place
+mmc avatar 1st,resdb:///1e8d3ae6d159785d101396c2a7528d217af9b32a0d1023a9dd9c295269989138.png, 1st place
+mmc avatar 2nd,resdb:///c387b7df5f5591b1ded321406e6348e1bcd371e87a14380b14c2c62039b77f5a.png, 2nd place
+mmc avatar 3rd,resdb:///d37d9bb54c3f3e32b76d5b9486af18ca06c7da32b38f9ac3b7530dd27befad93.png, 3rd place
+mmc other 1st,resdb:///e5407b774a4d22555f1cfd02737432fdec36f43f383181ce01e6f4256ac05eab.png, 1st place
+mmc other 2nd,resdb:///35514974f19846c0c4fb9ad1d0313dc9110a0cf1546da6d4cf0e8c8a8b699bfc.png, 2nd place
+mmc other 3rd,resdb:///78ab203e527d4465375c245c2b314afae3e4690015d279a212cd5203cd509038.png, 3rd place
+mmc21 participant,resdb:///167ad55acbebbbcd0b89a616f426bc59bdd73e3afe59c524a51722fde9fef597.png,MMC21 Participation
+mmc21 world:social 1st,resdb:///afbb7d44fdb65d285a5217ba7faaa73638db5acb6db7ab9e06e82bcdabd55859.png, 1st place
+mmc21 world:social 2nd,resdb:///25beea8017852677cc0e5ea9449501b1f36d4cf0e085238a6cfc17178535c693.png, 2nd place
+mmc21 world:social 3rd,resdb:///ad8c4e15698f3314e1de873793d8dcecd4a4eb24cb15d329c9075a1a9de1b8b8.png, 3rd place
+mmc21 world:game 1st,resdb:///afbb7d44fdb65d285a5217ba7faaa73638db5acb6db7ab9e06e82bcdabd55859.png, 1st place
+mmc21 world:game 2nd,resdb:///25beea8017852677cc0e5ea9449501b1f36d4cf0e085238a6cfc17178535c693.png, 2nd place
+mmc21 world:game 3rd,resdb:///ad8c4e15698f3314e1de873793d8dcecd4a4eb24cb15d329c9075a1a9de1b8b8.png, 3rd place
+mmc21 world:misc 1st,resdb:///afbb7d44fdb65d285a5217ba7faaa73638db5acb6db7ab9e06e82bcdabd55859.png, 1st place
+mmc21 world:misc 2nd,resdb:///25beea8017852677cc0e5ea9449501b1f36d4cf0e085238a6cfc17178535c693.png, 2nd place
+mmc21 world:misc 3rd,resdb:///ad8c4e15698f3314e1de873793d8dcecd4a4eb24cb15d329c9075a1a9de1b8b8.png, 3rd place
+mmc21 avatar:avatars 1st,resdb:///4b7e7417c0f183439ea4220391bf7278ea85942cacd3b4d80304e0bc765231b9.png, 1st place
+mmc21 avatar:avatars 2nd,resdb:///43c5a5c4415a7611e27b1db103c557d37a42b8e045364149bb91a2f4958ea104.png, 2nd place
+mmc21 avatar:avatars 3rd,resdb:///562b055984508ea11eda9472620c544a4fedf80330bb8c0b234504597e96da76.png, 3rd place
+mmc21 avatar:accessories 1st,resdb:///4b7e7417c0f183439ea4220391bf7278ea85942cacd3b4d80304e0bc765231b9.png, 1st place
+mmc21 avatar:accessories 2nd,resdb:///43c5a5c4415a7611e27b1db103c557d37a42b8e045364149bb91a2f4958ea104.png, 2nd place
+mmc21 avatar:accessories 3rd,resdb:///562b055984508ea11eda9472620c544a4fedf80330bb8c0b234504597e96da76.png, 3rd place
+mmc21 avatar:misc 1st,resdb:///4b7e7417c0f183439ea4220391bf7278ea85942cacd3b4d80304e0bc765231b9.png, 1st place
+mmc21 avatar:misc 2nd,resdb:///43c5a5c4415a7611e27b1db103c557d37a42b8e045364149bb91a2f4958ea104.png, 2nd place
+mmc21 avatar:misc 3rd,resdb:///562b055984508ea11eda9472620c544a4fedf80330bb8c0b234504597e96da76.png, 3rd place
+mmc21 other:tau 1st,resdb:///4521163a0ee4cd6077072c69199a57e78d556af1fd78d22ae9415d9c02fea90c.png, 1st place
+mmc21 other:tau 2nd,resdb:///7fc994c3252631023cfc98120424f59ae3c612b4c3eddb37a98a1fa03c0258c9.png, 2nd place
+mmc21 other:tau 3rd,resdb:///d9a6cccecdaaf19346936dffd5ebb5aabd98b636334f9470e10582a6d1c50bb8.png, 3rd place
+mmc21 other:misc 1st,resdb:///4521163a0ee4cd6077072c69199a57e78d556af1fd78d22ae9415d9c02fea90c.png, 1st place
+mmc21 other:misc 2nd,resdb:///7fc994c3252631023cfc98120424f59ae3c612b4c3eddb37a98a1fa03c0258c9.png, 2nd place
+mmc21 other:misc 3rd,resdb:///d9a6cccecdaaf19346936dffd5ebb5aabd98b636334f9470e10582a6d1c50bb8.png, 3rd place
+mmc21 meme 1st,resdb:///159a8de23d675caac96ea3ad4c1e0080742e85a302a22a334e895efd673acdb9.png, 1st place
+mmc21 meme 2nd,resdb:///ce858c89d564a244d1d6aaf259f95efc54fc8bd40382b4501b2f64510cd11a63.png, 2nd place
+mmc21 meme 3rd,resdb:///1d3743ff2c9ef6c2722b1de819aee5b516dbe0bd0ef9ba536985d8f081753cef.png, 3rd place
+mmc21 smile,resdb:///3f0c8ab1ca45917cfb82ed1c97f15c17b785814a3b3a6d84d703c1719314b416.png,MMC21 Trophies
+mmc21 mouth,resdb:///64bb3fd99a673e0545d2e5fab73b01a077c8ce3dcdb5d550ff2b692ad4961907.png,MMC21 Translator
+mmc21 grill cheeze,resdb:///4c6c576636f21c267bd4f7335cde73f2245bf023ba24cedca4a228275880cbc3.png,MMC21 Grill Cheeze
+mmc22 participant,resdb:///ebd3c882ec12805b293199f0c5e0d77c7333b524b205f668b65d80aa51c944c8.png,MMC22 Participant
+mmc22 honorable mention,resdb:///c5cbb3d6b9ed17539c5ba146d5ec30cfeb5d1ff0423738667b0e6991c8eddd08.png,MMC22 Honorable Mention
+mmc22 world,resdb:///f9a58d294185c215b0bbd3b2469927098b02179ec333f4d9802b79d96f321303.png,MMC22 World Winner
+mmc22 avatar,resdb:///8ee814db1f0107b127a02f8c22536cd6d0dfb767b88ad6295f392e54d49dce21.png,MMC22 Avatar Winner
+mmc22 art,resdb:///71d987dd3a75b276d00a241008408c33d26537438960e94b3ac418e68dee6596.png,MMC22 Art Winner
+mmc22 esd,resdb:///aa0566eb57bbc9192afbcdeec6c6458102223c4ec1c8a858ae1a65040c910a1d.png,MMC22 ESD Winner
+mmc22 meme,resdb:///106b696ed2d4a61ef3a27594b3886c9393d1843787a23a33793852385e235401.png,MMC22 Meme Winner
+mmc22 other,resdb:///33e59769ce553b09bde7449158e1ebbcc908a3c9cb38561fdb21002a53ef3b21.png,MMC22 Other Winner
+mmc22 cheese coin,resdb:///3a398758b484cf8ac52bfb00b9bc3203b0398186f9dfefbb9f8ca7ff4bbfb3df.png,MMC22 CheeseCoin
+mmc22 litalita,resdb:///de9be78be80d169af4419aaaf849565a48bc49c24b631a3d15f1ffd4fa9cd1af.png,MMC22 LitaLita
+mmc22 holywater,resdb:///6701c8ad48ae433442ec216ff498f8ef70a83df2a33017eed98f91a690aa35b3.png,MMC22 HolyWater
+mmc23 participant,resdb:///89c544d236ae061dc58e246dd600f0cad5ef4d492393fb65f69c2c9f7e9a2fbe.png,MMC23 Participant
+mmc23 honorable mention,resdb:///82657b927af6ff7cb944d83d19d8e8eff72574642735378fe39dd3b1cf38515f.png,MMC23 Honorable Mention
+mmc23 world,resdb:///c8ba2e7f8eb8e017fd74ac9ac2f8a3f0cfe3c39bcd4e038fb7ef74200c40bf2e.png,MMC23 World Winner
+mmc23 avatar,resdb:///918da42cd1da0fe4662aae428da2cb3c65f154ae23194fee450d8697a157529a.png,MMC23 Avatar Winner
+mmc23 art,resdb:///c21dee140cec42742c0b7c5c0adbad42973850a04dc33f20468b6b2e0da60e1c.png,MMC23 Art Winner
+mmc23 esd,resdb:///811a6cbf322e6edcf917e1a12da995599315f4fe8f4a5dbbab1060d0517b4a1a.png,MMC23 ESD Winner
+mmc23 meme,resdb:///7de6cd4bd8fe6ff33f6e801b5b3bca9008d75aa8737e3e22ced6f85509ff6a6a.png,MMC23 Meme Winner
+mmc23 other,resdb:///5452873da954c2e76f153ecb4a7122855ec6c63c63e8a92a5a3bc684ae4aa053.png,MMC23 Other Winner
+mmc23 gifty,resdb:///1f0b7d8dfff68b8df0e2536103ca54318eac4f822b1e8811ee477c57afc3c010.png,MMC23 Gifty
+mmc23 prime,resdb:///423234d2df83bb616408709bf2011b3ea2993d545ac5796bf37a8088d64111e3.png,MMC23 Prime
+mmc23 litalita,resdb:///60d81b7b519fd3f4936fd87ba0221c9e9c670ed56df8602bf17de89d2236bb58.png,MMC23 litalita
+mmc23 holywater,resdb:///fcf3b4bd1d39499d73fbb2184dbee892ea6013cb94519084ed8436b1f7eaac8e.png,MMC23 HolyWater
+mmc24 gifty,resdb:///8c68241754813bf4b41ad5db0b38e94a5ca524964caba4a888d69745ddc1689f.png,MMC24 Gifty
+mmc24 participant,resdb:///00dd00f8b8c4d62f27934acb20ea8c2ea852d2f75fcfe16de0ce8b2643cfa6de.png,MMC24 Participant
+mmc24 honorable mention,resdb:///2e919e40ca369653c8b35bd4609d506d2d9cbd73401e0cc9d0b7c895e533bb3e.png,MMC24 Honorable Mention
+mmc24 world,resdb:///9d56330c331f653f8b6f6503d5e2d9bf7ff62f548d968323b66076fe7e99b87f.png,MMC24 World Winner
+mmc24 avatar,resdb:///75ec4f48e39fe6534cda057f902f001a1418c3236b70c549d024b932e521f7bd.png,MMC24 Avatar Winner
+mmc24 art,resdb:///276dfbd2513263e54281f32831196b93b4ac7d4a1837e419261f6b589c6e098a.png,MMC24 Art Winner
+mmc24 esd,resdb:///971f05bf7c4786006e29105ce147f5e732c31114c6302fe7d5a3796f3c1e7ef8.png,MMC24 ESD Winner
+mmc24 meme,resdb:///44af0cd63b676b616c98f7c3138698d01f1716b02e7d3bd63d4659924424cc6d.png,MMC24 Meme Winner
+mmc24 narrative,resdb:///2ee8668bf120f92b401115d1edee748b11f0b63bb28f05d494fafca24e7a0abd.png,MMC24 Narrative Winner
+mmc24 other,resdb:///f1357514a7cd156c28ad921475db2b7ad5ab6c14d10c9ffcc4dac7af8b12b71c.png,MMC24 Other Winner
+mmc24 prime,resdb:///9b8fbfe6ed35a5d71108ba910c4415df12936451be6dc9b4b550ae7802428704.png,MMC24 Doggy
+mmc24 holywater,resdb:///a4d53ce137d46dac48b6385f70c3942b64dfe93aee066ca2a6b0f39b6294cdbd.png,MMC24 HolyWater
+mmc24 litalita,resdb:///065d23b0a83a0c7d6bef01e3c6d2250a7d1edeff702217e4b5763db87d04dee5.png,MMC24 litalita
+mmc24 froox,resdb:///04d4e03231a996ab20a6d13609c613c1e6c9986ad3c9e1aa56a6edf999c0d78a.png,MMC24 Froox
+vblfc,resdb:///a3a9380f5e4b97b686dbc64e30fd7eae6ff325eb00eba785c1646df5d451431f.png,VBLFC
+neos festa 3,resdb:///8f329d39f0f6c4778afe7dd1f2c85461cfd0c57a79ebdbe648cfb5de797261b1.png,Festa 3
+neos festa 3 participant,resdb:///db19e650645cc15516a4e95f02253e3aefd7bd2a9ffeb838d95a08d9eb4334f1.png,Festa 3 Participant
+neos festa 4 ambassador,resdb:///23f645e2084a43d7c96fb1fd7cb9f732faa66baa703ac128f3796c974e3f5bb8.png,Festa 4 Ambassador
+neos festa 4 participant,resdb:///b3e14476da9ee56a2bfd618e3281b7314999797ba654eabb0588852ee1ef04aa.png,Festa 4 Participant
+unifesta 2023,resdb:///fa88adba5c5c3910052ec801852ed56138ac606b45e66a5f4f51a02af032166e.png,UniFesta 2023 Participant
+vfe22,resdb:///d9654f19b527972427b4793fdfbad8abb680a1f159dd2e80ce1b35cf27590237.png,Virtual Furnal Equinox 2022
